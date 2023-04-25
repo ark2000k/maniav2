@@ -42,7 +42,7 @@ Assembly:
 
 Wire up the Pro Micro like this
 
-ark2000k/maniav2/images/Untitled30_20230319204649.png
+[image]
 
 The GND wire should go from the left side to the D switch, the F switch, then the LED, the J switch, and lastly the K switch
 
