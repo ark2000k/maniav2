@@ -79,7 +79,7 @@ Connect the Pro Micro using a Data wire, then upload the sketch.ino into Arduino
 
 === YOU MAY NEED TO HOT GLUE SOME PARTS, INCLUDING THE SWITCHES ===
 
-
+------------------------------
 
 The code is a basic keyboard code, with extra code from FastLED Pride2015 example code by Mark Kriegsman.
 
