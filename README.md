@@ -37,7 +37,7 @@ Soldering Iron
 
 What to 3d print:
 
-A Case, any height
+A Case, any height. NOTE: THE 1.5cm IS NOT TESTED. IT SHOULD BE BETTER THAN 3cm BUT I HAVE NOT TESTED IT.
 
 A Cover, choose which one, if you are not using an LED, make the one without the hole in the middle.
 
