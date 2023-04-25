@@ -73,7 +73,7 @@ The GND wire should go from the left side to the D switch, the F switch, then th
 
 Each switch should be wired up to A0, A1, A2, and A3. All should be GPIO pins.
 
-The LED has 3 pins. The 5v goes to the RAW pin and the DATA pin goes to any GPIO pin. I used pin 9
+The LED has 3 pins. The 5v goes to the RAW pin and the DATA pin goes to any GPIO pin. I used pin 15
 
 Connect the Pro Micro using a Data wire, then upload the sketch.ino into Arduino IDE.
 
