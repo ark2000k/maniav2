@@ -43,6 +43,7 @@ A Cover, choose which one, if you are not using an LED, make the one without the
 
 A Transparent piece to have light shine through, ONLY if you are using LED
 
+===============================
 
 If you won't use an LED, print these:
 
@@ -50,6 +51,7 @@ maniav2 1.5cm/3cm case.stl
 
 maniav2 front panel NO LED.stl
 
+===============================
 
 If you will use an LED, print these:
 
