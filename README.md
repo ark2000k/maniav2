@@ -5,6 +5,10 @@ A small controller for osu!mania. Works on mobile with osu!lazer too!
 
 ![img2](https://github.com/ark2000k/maniav2/blob/main/images/IMG_20230418_165057.jpg?raw=true)
 
+![img3](https://github.com/ark2000k/maniav2/blob/main/images/IMG_20230418_165104.jpg?raw=true)
+
+![vid](https://github.com/ark2000k/maniav2/blob/main/images/VID_20230418_165133.mp4?raw=true)
+
 Items needed:
 
 1 Pro Micro
