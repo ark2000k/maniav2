@@ -42,9 +42,13 @@ Assembly:
 
 Wire up the Pro Micro like this
 [img]
+
 The GND wire should go from the left side to the D switch, the F switch, then the LED, the J switch, and lastly the K switch
+
 Each switch should be wired up to 12, 13, 14, and 15. All should be GPIO pins.
+
 The LED has 3 pins. The 5v goes to the RAW pin and the DATA pin goes to any GPIO pin. I used pin 9
+
 Connect the Pro Micro using a Data wire, then upload the sketch.ino into Arduino IDE.
 
 WIP
