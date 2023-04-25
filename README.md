@@ -77,10 +77,10 @@ The LED has 3 pins. The 5v goes to the RAW pin and the DATA pin goes to any GPIO
 
 Connect the Pro Micro using a Data wire, then upload the sketch.ino into Arduino IDE.
 
+=== YOU MAY NEED TO HOT GLUE SOME PARTS, INCLUDING THE SWITCHES ===
 
 
 
-
-The code is a basic keyboard code, with extra code from FastLED Pride2015 example code.
+The code is a basic keyboard code, with extra code from FastLED Pride2015 example code by Mark Kriegsman.
 
 If you have any questions, ask me on discord at 打打打打打打打打#2871
