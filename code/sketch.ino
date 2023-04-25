@@ -4,7 +4,7 @@
 #include <FastLED.h>
 
 #define D_KEY_PIN 18
-#define F_KEY_PIN 9
+#define F_KEY_PIN 19
 #define J_KEY_PIN 20
 #define K_KEY_PIN 21
 
