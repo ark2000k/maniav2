@@ -43,6 +43,22 @@ A Cover, choose which one, if you are not using an LED, make the one without the
 
 A Transparent piece to have light shine through, ONLY if you are using LED
 
+
+If you won't use an LED, print these:
+
+maniav2 1.5cm/3cm case.stl
+
+maniav2 front panel NO LED.stl
+
+
+If you will use an LED, print these:
+
+maniav2 1.5cm/3cm case.stl
+
+maniav2 front panel.stl
+
+maniav2 LED panel.stl
+
 ----------------------------
 
 Assembly:
@@ -58,6 +74,8 @@ Each switch should be wired up to A0, A1, A2, and A3. All should be GPIO pins.
 The LED has 3 pins. The 5v goes to the RAW pin and the DATA pin goes to any GPIO pin. I used pin 9
 
 Connect the Pro Micro using a Data wire, then upload the sketch.ino into Arduino IDE.
+
+
 
 
 
