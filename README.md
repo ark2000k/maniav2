@@ -1,7 +1,7 @@
 # maniav2
 A small controller for osu!mania. Works on mobile with osu!lazer too!
 
-![img1](https://github.com/ark2000k/maniav2/blob/main/images/IMG_20230418_165052.jpg
+![img1](https://github.com/ark2000k/maniav2/blob/main/images/IMG_20230418_165052.jpg?raw=true)
 
 Items needed:
 
