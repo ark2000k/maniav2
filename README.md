@@ -18,6 +18,7 @@ Items needed:
 
 Wires
 
+----------------------------
 
 Tools needed:
 
@@ -25,6 +26,7 @@ Soldering Iron
 
 3d printer & filament
 
+----------------------------
 
 What to 3d print:
 
@@ -34,6 +36,7 @@ A Cover, choose which one, if you are not using an LED, make the one without the
 
 A Transparent piece to have light shine through, ONLY if you are using LED
 
+----------------------------
 
 Assembly:
 
